@@ -1,6 +1,6 @@
 问你**Dubbo底层架构原理**是一样的，不求你说能看过**Spring Cloud的源码**，单单就是说搞明白他的一些底层架构原理，也是不错的
 
-![Eureka服务注册中心的原理](/docs/distributed-system/images/springCloud-study-theory.png)
+![Eureka服务注册中心的原理](../../docs/distributed-system/images/springCloud-study-theory.png)
 **Eureka、Ribbon、Feign、Zuul**
 
 就是优化并发冲突
